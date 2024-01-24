@@ -119,6 +119,11 @@ body {
     gap: 2rem;
 }
 
+.footer-paragraph {
+    text-align: center;
+    margin: 2rem;
+}
+
 .hidden {
     display: none;
 }
@@ -173,5 +178,13 @@ body {
     .submit-btn:hover {
         background-image: linear-gradient(to right, hsl(4, 100%, 67%) 70%, hsl(20, 100%, 65%));
         box-shadow: 1px 3px 15px hsl(0, 0%, 0%);
+    }
+
+    .footer-paragraph {
+        color: hsl(0, 0%, 100%);
+    }
+
+    .link {
+        color: hsla(0, 0%, 100%, 0.622);
     }
 }
