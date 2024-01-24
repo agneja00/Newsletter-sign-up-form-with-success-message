@@ -17,7 +17,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/agneja00/Newsletter-sign-up-form-with-success-message)
-- Live Site URL: (https://newsletter-sign-up-form-with-success-message-jwpsvhs93-agneja00.vercel.app/](https://newsletter-sign-up-form-with-success-messag-git-1e3dcc-agneja00.vercel.app/)
+- Live Site URL: (https://newsletter-sign-up-form-with-success-messag-git-1e3dcc-agneja00.vercel.app/)
 
 ### Built with
 
